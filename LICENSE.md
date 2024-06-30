@@ -1,6 +1,6 @@
 MIT License
 
-Copy right (c) 2021 Nimesh Dilshan Kumarawansha
+Copy right (c) 2024 Nimesh Dilshan Kumarawansha https://github.com/nimeshdkumarawansha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
